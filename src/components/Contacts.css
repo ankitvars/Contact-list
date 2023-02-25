@@ -1,0 +1,35 @@
+.container{
+    width: 70%;
+    margin-top: 5%;
+    margin-left: 15%;
+    border: 2px black solid;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+#listOfContacts{
+    list-style: none;
+    text-align: left;
+    padding-right: 2%;
+}
+
+.contact-form{
+    display: flex;
+    justify-content: space-around;
+    padding: 0.5rem;
+}
+
+input{
+    width: 40%;
+    height: 1.8rem;
+    padding-left: 2%;
+}
+
+#show-hide-contacts{
+    width: 25%;
+    font-size: medium;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    margin: 1rem;
+    cursor: pointer;
+}

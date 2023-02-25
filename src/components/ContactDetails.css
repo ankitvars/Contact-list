@@ -1,0 +1,22 @@
+.show {
+    display: none;
+}    
+
+#visible-details{
+    display: flex;
+    justify-content: space-between;
+}
+
+#icons{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.details-icons{
+    padding: 0.5rem;
+}
+
+#address{
+    padding: 0.05rem 0rem 1rem 1rem;
+}
